@@ -28,6 +28,7 @@ namespace FourInARow_consoleGame
         /// <param name="y">y axis position</param>
         /// <param name="value">the char you want to set</param>
         /// <returns></returns>
+        //how are you doing mf
         public char setSingleValue(int x, int y, char value)
         {
              twoDimensionalArray[x, y] = value;
