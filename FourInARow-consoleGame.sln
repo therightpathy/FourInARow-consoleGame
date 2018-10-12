@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInARow-consoleGame", "FourInARow-consoleGame\FourInARow-consoleGame.csproj", "{9837631A-6750-4CDF-AF4F-E6354CA29959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9837631A-6750-4CDF-AF4F-E6354CA29959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9837631A-6750-4CDF-AF4F-E6354CA29959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9837631A-6750-4CDF-AF4F-E6354CA29959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9837631A-6750-4CDF-AF4F-E6354CA29959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CECA3905-CDAA-44EE-9DDB-1CB503263DEE}
+	EndGlobalSection
+EndGlobal
