@@ -28,7 +28,11 @@ namespace FourInARow_consoleGame
         /// <param name="y">y axis position</param>
         /// <param name="value">the char you want to set</param>
         /// <returns></returns>
-        //how are you doing mf
+        //TODO - gameClass og playerClass oprettes
+        //TODO - Eventuel minusliste tæller ned og visuelt går op.
+        //TODO - Liste skal kunne anerkende at en given plads er optaget. 
+        //TODO - Producere 'if' sætninger der kan udelukke specifikke pladser.
+        //TODO - Spillet består af to spiller, hvor parameterne for at vinde er på ligelinjer (vandret og lodret)
         public char setSingleValue(int x, int y, char value)
         {
              twoDimensionalArray[x, y] = value;
